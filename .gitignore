@@ -1,2 +1,12 @@
 node_modules/
+.meteor/local/
+.meteor/dev_bundle/
+.DS_Store
+npm-debug.log
+meteor_packages
+.project
+.private/
 .trash/
+settings.json
+yarn.lock
+yarn-error.log
